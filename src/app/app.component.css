@@ -1,0 +1,11 @@
+.panel-primary{
+  background-color: lightblue;
+}
+
+.panel-alert{
+  background-color: red;
+}
+
+.panel{
+  padding: 10px;
+}
